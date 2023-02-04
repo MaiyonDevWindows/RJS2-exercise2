@@ -1,0 +1,2 @@
+Git: https://github.com/maiyo9x/RJS2-exercise2
+Vercel: https://rjs-2-exercise2.vercel.app/
